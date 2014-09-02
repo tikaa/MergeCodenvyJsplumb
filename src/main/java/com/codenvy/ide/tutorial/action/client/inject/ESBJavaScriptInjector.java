@@ -42,7 +42,7 @@ public static native void getInsideIframe() /*-{
        // $wnd.alert("starting....");
         
         var t1 = $doc.getElementById('contactForm');
-        // var iframe =   $('contactForm').contents().find('MyIframe')
+         var iframe =   $('contactForm').contents().find('MyIframe')
         
         $wnd.alert("My Name is Khan.. : "+ t1);
        

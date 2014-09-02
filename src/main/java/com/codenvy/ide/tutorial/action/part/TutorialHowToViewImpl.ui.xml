@@ -21,10 +21,10 @@
     <g:HTMLPanel>
         
         
-        <g:HTMLPanel>
+        
         <div id="contactForm"> 
              <g:Frame id= "MyIframe" url="http://jsplumbesbeditor.appspot.com/" height="800px" width="1400px" />
-         </div></g:HTMLPanel>
+         </div>
     </g:HTMLPanel>
 
 </ui:UiBinder>
